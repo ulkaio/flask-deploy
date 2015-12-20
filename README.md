@@ -1,8 +1,6 @@
 ## flask-deploy
 ============
 
-#### Check out the blog post: https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment/ for further information.
-
 ##### An automated way to setup a Flask configuration, with gunicorn, nginx. git, etc. This will save you hours, if not days!
 
 ##### Steps to setup:
