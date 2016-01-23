@@ -1,7 +1,11 @@
 ## flask-deploy
 ============
+A rather annoying, and difficult process of configuring a Python-based web server is setting up web servers, proxy servers, application servers, and necessary things in production like source control through git, and other pain killers.
 
+###### Presenting:
 ##### An automated way to setup a Flask configuration, with gunicorn, nginx. git, etc. This will save you hours, if not days!
+
+The point of this project, was to automate this task, by running a few commands, so lets get to it!
 
 ##### Steps to setup:
 
